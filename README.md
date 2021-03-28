@@ -8,4 +8,4 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gcsbruno&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcsbruno&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gcsbruno&layout=compact&theme=tokyonight" />

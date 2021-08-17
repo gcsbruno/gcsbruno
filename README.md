@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Bruno Silvano
+- 👋 Olá, meu nome é Bruno Guimarães
 - 🌱 Entusiasta/Estudante
 - 🤝 Perfil para contato [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bruno-guimaraes-correa-silvano-693a06180/)
 

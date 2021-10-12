@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Bruno Guimarães
-- 🌱 Entusiasta/Estudante
+- 🌱 Estudo atualmente Analise e desenvolvimento de sistemas na Fatec Praia Grande
 - 👨‍💻 Atualmente estou focado nos projetos da empresa que trabalho JTP Solution
 - 📱 Aprendendo tecnologias de desenvolvimento mobile
 - 🤝 Perfil para contato [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bruno-guimaraes-correa-silvano-693a06180/)

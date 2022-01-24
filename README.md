@@ -1,7 +1,8 @@
-- 👋 Olá, meu nome é Bruno Guimarães
+- 👋 Olá, meu nome é Bruno Guimarães 
+- 👨‍💻 Atualmente trabalho na Flowsense como Engenheiro de software mobile
 - 🌱 Estudo Analise e desenvolvimento de sistemas na Fatec Praia Grande
-- 👨‍💻 Atualmente estou focado nos projetos da empresa que trabalho JTP Solution
 - 📱 Aprendendo tecnologias de desenvolvimento mobile
+-   Ausente desta rede devido as demandas profissionais e universitárias
 - 🤝 Perfil para contato [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bruno-guimaraes-correa-silvano-693a06180/)
 
 

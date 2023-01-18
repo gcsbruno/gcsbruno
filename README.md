@@ -1,6 +1,5 @@
 - 👋 Hello, my name is Bruno
-- 👨‍💻 Actually I work at Software Mobile Engineer
-- 🌎 Organizations: DigitalReef / Flowsense @bruno-flowsense
+- 👨‍💻 Software Mobile Engineer
 - 🌱 Systems analysis and development student at Fatec Praia Grande
 - 📱 Always learning mobile technologies
 -  A little absent from this network due to professional and university demands

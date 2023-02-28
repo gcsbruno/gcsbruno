@@ -1,8 +1,7 @@
 - 👋 Hello, my name is Bruno
-- 👨‍💻 Software Mobile Engineer
+- 👨‍💻 Software Engineer
 - 🌱 Systems analysis and development student at Fatec Praia Grande
-- 📱 Always learning mobile technologies
--  A little absent from this network due to professional and university demands
+- 📱 Extensive experience in mobile technologies 
 - 🤝 Contact me [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bruno-guimaraes-correa-silvano-693a06180/)
 
 
